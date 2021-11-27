@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## He Pei-Yu
 
-You can use the [editor on GitHub](https://github.com/iampeiyu/He-Pei-Yu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<br/>Mobile: +358 407 304 522
+<br/>Email: pei-yu.p.he@utu.fi
+<br/>Nationality: Taiwanese
+<br/>Gerder: Female
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+Master Degree (2021-2023)
+<br/>University of Turku
+<br/>Feilds of Study: Global Innovation Mangement
 
-### Markdown
+<br/>Bachelor Degree (2017-2021)
+<br/>National Taipei University of Technology
+<br/>Industrial Engineering and Management
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Working Experience
+Brand Ambassador
+<br/>Conflux Network
+<br/>1 JUL 2021 – 31 AUG 2021 – Taiwan
 
-```markdown
-Syntax highlighted code block
+<br/>Human Resources Intern
+<br/>SHENGSEN Software Co., Ltd.
+<br/>FEB 2020 – 30 JUN 2020 – Taipei, Taiwan
 
-# Header 1
-## Header 2
-### Header 3
+<br/>Teacher Assistant of Economics and Management
+<br/>National Taipei University of Technology
+<br/>1 FEB 2019 – 30 JUN 2020 – Taipei, Taiwan
 
-- Bulleted
-- List
+### Language Skills
+Mother Tongue: Chinese
+<br/>Other Language:English
 
-1. Numbered
-2. List
+### Publication
+A Dynamic Pricing Parking System in Urban Area with a Multi-period Reservation Demand (2021)
+<br/><a href="https://ieeexplore.ieee.org/document/9555191">IEEE</a>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iampeiyu/He-Pei-Yu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Digital Skills
+Adobe Photoshope
+<br/>Microsoft Office
+<br/>Video Conference Tools
+<br/>Arena
+<br/>Spyder Jupyter Anaconda
+<br/>Visual Basic for Application(VBA ExcelAccess)
